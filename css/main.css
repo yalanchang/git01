@@ -5,3 +5,10 @@ body{
     font-family: sans-serif;
     font-size: 18px;
 }
+
+header{
+    background-image:url("https://i.pinimg.com/736x/ab/ce/c0/abcec0d4560d049f7dd0e5c603b0db13.jpg");
+    height: 700px;
+    background-size: cover;
+
+}
